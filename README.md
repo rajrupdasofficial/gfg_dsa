@@ -20,4 +20,5 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 13: Smallest Positive Missing Number ✅
 ### Day 14: Implement Atoi ✅
 ### Day 15: Add Binary Strings ✅
-
+### Day 16: Anagram ✅
+### Day 17: Non Repeating Character ✅
