@@ -23,3 +23,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 16: Anagram ✅
 ### Day 17: Non Repeating Character ✅
 ### Day 18: KMP Search Algorithm ✅
+### Day 19: Min Chars to Add for Palindrome ✅
