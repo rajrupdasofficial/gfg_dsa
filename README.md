@@ -26,3 +26,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 19: Min Chars to Add for Palindrome ✅
 ### Day 20: Strings Rotations of Each Other ✅
 ### Day 21: Sort 0s, 1s and 2s ✅
+### Day 22: Find H-Index ✅
