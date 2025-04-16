@@ -29,3 +29,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 22: Find H-Index ✅
 ### Day 23: Count Inversions ✅
 ### Day 24: Overlapping Intervals ✅
+### Day 25: Insert Interval ✅
