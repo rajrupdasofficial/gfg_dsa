@@ -33,3 +33,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 26: Non-overlapping Intervals ✅
 ### Day 27: Merge Without Extra Space ✅
 ### Day 28: Number of occurrence ✅
+### Day 29: Sorted and Rotated Minimum ✅
