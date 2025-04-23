@@ -36,4 +36,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 29: Sorted and Rotated Minimum ✅
 ### Day 30: Search in Rotated Sorted Array ✅
 ### Day 31: Peak element ✅
-### Day 31: K-th element of two Arrays ✅
+### Day 32: K-th element of two Arrays ✅
