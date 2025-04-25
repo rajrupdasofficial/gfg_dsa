@@ -38,4 +38,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 31: Peak element ✅
 ### Day 32: K-th element of two Arrays ✅
 ### Day 33: Aggressive Cow ✅
-
+### Day 34: Allocate Minimum Pages ✅
