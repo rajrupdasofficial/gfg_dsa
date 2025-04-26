@@ -39,3 +39,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 32: K-th element of two Arrays ✅
 ### Day 33: Aggressive Cow ✅
 ### Day 34: Allocate Minimum Pages ✅
+### Day 35: Kth Missing Positive Number in a Sorted Array ✅
