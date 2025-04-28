@@ -41,3 +41,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 34: Allocate Minimum Pages ✅
 ### Day 35: Kth Missing Positive Number in a Sorted Array ✅
 ### Day 36: Spirally traversing a matrix ✅
+### Day 37: Rotate by 90 degree ✅
