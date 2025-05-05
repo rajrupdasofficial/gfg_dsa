@@ -47,3 +47,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 40: Search in a sorted Matrix ✅
 ### Day 41: Set Matrix Zeroes ✅
 ### Day 42: Two Sum - Pair with Given Sum ✅
+### Day 43: Count pairs with given sum ✅
