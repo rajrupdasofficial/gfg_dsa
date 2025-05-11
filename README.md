@@ -53,3 +53,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 46: Union of Arrays with Duplicates ✅
 ### Day 47: Longest Consecutive Subsequence ✅
 ### Day 48: Print Anagrams Together ✅
+### Day 49: Subarrays with sum K ✅
