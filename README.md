@@ -54,3 +54,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 47: Longest Consecutive Subsequence ✅
 ### Day 48: Print Anagrams Together ✅
 ### Day 49: Subarrays with sum K ✅
+### Day 50: Count Subarrays with given XOR ✅
