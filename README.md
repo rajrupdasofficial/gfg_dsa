@@ -56,3 +56,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 49: Subarrays with sum K ✅
 ### Day 50: Count Subarrays with given XOR ✅
 ### Day 51: Count all triplets with given sum in sorted array ✅
+### Day 52: Count Pairs whose sum is less than target ✅
