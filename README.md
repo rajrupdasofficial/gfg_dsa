@@ -59,3 +59,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 52: Count Pairs whose sum is less than target ✅
 ### Day 53: Sum Pair closest to target ✅
 ### Day 54: Pair with given sum in a sorted array ✅
+### Day 55: Count the number of possible triangles ✅
