@@ -61,3 +61,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 54: Pair with given sum in a sorted array ✅
 ### Day 55: Count the number of possible triangles ✅
 ### Day 56: Indexes of Subarray Sum ✅
+### Day 57: Count distinct elements in every window ✅
