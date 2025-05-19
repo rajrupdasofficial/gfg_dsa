@@ -62,3 +62,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 55: Count the number of possible triangles ✅
 ### Day 56: Indexes of Subarray Sum ✅
 ### Day 57: Count distinct elements in every window ✅
+### Day 58: Longest substring with distinct characters ✅
