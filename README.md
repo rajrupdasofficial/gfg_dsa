@@ -65,3 +65,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 58: Longest substring with distinct characters ✅
 ### Day 59: Trapping Rain Water ✅
 ### Day 60: Container With Most Water ✅
+### Day 61: Equilibrium Point ✅
