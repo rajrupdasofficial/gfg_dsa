@@ -66,3 +66,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 59: Trapping Rain Water ✅
 ### Day 60: Container With Most Water ✅
 ### Day 61: Equilibrium Point ✅
+### Day 62: Longest Subarray with Sum K ✅
