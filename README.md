@@ -76,3 +76,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 69: Add Number Linked Lists ✅
 ### Day 70: Clone List with Next and Random ✅
 ### Day 71: Detect Loop in linked list ✅
+### Day 72: Find the first node of loop in linked list ✅
