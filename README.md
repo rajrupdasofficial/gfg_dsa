@@ -78,3 +78,4 @@ Thank you if you find my solutions helpful please give a *.
 ### Day 71: Detect Loop in linked list ✅
 ### Day 72: Find the first node of loop in linked list ✅
 ### Day 73: Remove loop in Linked List ✅
+### Day 74: LRU Cache ✅
